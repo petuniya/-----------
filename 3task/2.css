@@ -1,0 +1,28 @@
+div{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p {
+    
+    background-color: darkred;
+    color: white;
+    border-radius: 100%;
+    font-size: large;
+    width:23px;
+    height: 23px;
+    text-align: center;
+    
+    padding: 20px;
+    margin: 10px 10px ;
+
+    
+     
+}
+
+
+.red{
+    padding: 20px;
+    height: 40%;
+}

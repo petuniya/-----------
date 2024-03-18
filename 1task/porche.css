@@ -1,0 +1,40 @@
+table, td {
+    border: 1px solid;
+
+}
+
+table {
+    border: 1.8px  solid;
+}
+
+
+tr{
+    border: 1 px solid;
+}
+
+    
+.menu{
+    text-decoration: none;
+
+    
+    background-color:darkgreen;
+    color: lightgreen;
+    font-size: 15px ;
+    padding-left: 7px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+   padding-right: 7px;
+}
+
+algebra {
+    P{
+        color: red;
+     }
+}
+
+
+ td{
+    border: 1 px;
+
+}
